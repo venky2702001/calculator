@@ -21,3 +21,14 @@ A simple, responsive calculator application built with HTML, CSS, and JavaScript
 3. Use the calculator by clicking the buttons.
 
 ## Project Structure
+calculator-project/
+
+│
+
+├── index.html
+
+├── styles.css
+
+├── script.js
+
+└── README.md
